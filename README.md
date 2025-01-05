@@ -1,4 +1,4 @@
-# Salesforce User Authentication Specialist Superbadge
+# Salesforce User Authentication Specialist 
 
 ## Introduction
 
